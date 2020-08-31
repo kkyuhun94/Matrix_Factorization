@@ -6,7 +6,7 @@
   - 데이터 셋은 아래 것을 사용할 것: https://grouplens.org/datasets/movielens/
   - 학습 데이터:  timestamp >= 1104505203 ~ timestamp <= 1230735592
   - 평가 데이터: timestamp >= 1230735600 이후
-  - 최종 산출물 평가데이터에 대한 아래 결과와 함께 구현 코드: <userId>,<movieId>,<predicted rating>,<timestamp>
+  - 최종 산출물 평가데이터에 대한 아래 결과와 함께 구현 코드: 'userId', 'movieId', 'predicted rating', 'timestamp'
   - 구현의 성능 향승을 위한 동시성 사용방안에 대해 고민할 것
 
 ### 참고
